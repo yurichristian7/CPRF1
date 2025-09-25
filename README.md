@@ -1,2 +1,2 @@
-# CPRF1
+# CPRF
 Código do CPRF em Python
